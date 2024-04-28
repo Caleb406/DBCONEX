@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\BD_CONEX\\GestionUsuarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F2242B-855E-4EEB-92F0-9B545A35F88C}|GestionUsuarios\\GestionUsuarios.csproj|c:\\users\\atc\\documents\\universidad\\progra\\bd_conex\\gestionusuarios\\gestionusuarios\\frmusuario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F2242B-855E-4EEB-92F0-9B545A35F88C}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\frmusuario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F2242B-855E-4EEB-92F0-9B545A35F88C}|GestionUsuarios\\GestionUsuarios.csproj|c:\\users\\atc\\documents\\universidad\\progra\\bd_conex\\gestionusuarios\\gestionusuarios\\frmusuario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7F2242B-855E-4EEB-92F0-9B545A35F88C}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\frmusuario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F2242B-855E-4EEB-92F0-9B545A35F88C}|GestionUsuarios\\GestionUsuarios.csproj|c:\\users\\atc\\documents\\universidad\\progra\\bd_conex\\gestionusuarios\\gestionusuarios\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F2242B-855E-4EEB-92F0-9B545A35F88C}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F2242B-855E-4EEB-92F0-9B545A35F88C}|GestionUsuarios\\GestionUsuarios.csproj|c:\\users\\atc\\documents\\universidad\\progra\\bd_conex\\gestionusuarios\\gestionusuarios\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F2242B-855E-4EEB-92F0-9B545A35F88C}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F2242B-855E-4EEB-92F0-9B545A35F88C}|GestionUsuarios\\GestionUsuarios.csproj|c:\\users\\atc\\documents\\universidad\\progra\\bd_conex\\gestionusuarios\\gestionusuarios\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F2242B-855E-4EEB-92F0-9B545A35F88C}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F2242B-855E-4EEB-92F0-9B545A35F88C}|GestionUsuarios\\GestionUsuarios.csproj|c:\\users\\atc\\documents\\universidad\\progra\\bd_conex\\gestionusuarios\\gestionusuarios\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7F2242B-855E-4EEB-92F0-9B545A35F88C}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F2242B-855E-4EEB-92F0-9B545A35F88C}|GestionUsuarios\\GestionUsuarios.csproj|c:\\users\\atc\\documents\\universidad\\progra\\bd_conex\\gestionusuarios\\gestionusuarios\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F2242B-855E-4EEB-92F0-9B545A35F88C}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmUsuario.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\BD_CONEX\\GestionUsuarios\\GestionUsuarios\\FrmUsuario.xaml.cs",
+              "RelativeDocumentMoniker": "GestionUsuarios\\FrmUsuario.xaml.cs",
+              "ToolTip": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\BD_CONEX\\GestionUsuarios\\GestionUsuarios\\FrmUsuario.xaml.cs",
+              "RelativeToolTip": "GestionUsuarios\\FrmUsuario.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwGMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T01:46:22.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmUsuario.xaml",
+              "DocumentMoniker": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\BD_CONEX\\GestionUsuarios\\GestionUsuarios\\FrmUsuario.xaml",
+              "RelativeDocumentMoniker": "GestionUsuarios\\FrmUsuario.xaml",
+              "ToolTip": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\BD_CONEX\\GestionUsuarios\\GestionUsuarios\\FrmUsuario.xaml",
+              "RelativeToolTip": "GestionUsuarios\\FrmUsuario.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-09T16:09:42.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioDao.cs",
+              "DocumentMoniker": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\BD_CONEX\\GestionUsuarios\\GestionUsuarios\\UsuarioDao.cs",
+              "RelativeDocumentMoniker": "GestionUsuarios\\UsuarioDao.cs",
+              "ToolTip": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\BD_CONEX\\GestionUsuarios\\GestionUsuarios\\UsuarioDao.cs",
+              "RelativeToolTip": "GestionUsuarios\\UsuarioDao.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:33:20.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\BD_CONEX\\GestionUsuarios\\GestionUsuarios\\DBConnection.cs",
+              "RelativeDocumentMoniker": "GestionUsuarios\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\BD_CONEX\\GestionUsuarios\\GestionUsuarios\\DBConnection.cs",
+              "RelativeToolTip": "GestionUsuarios\\DBConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T04:02:45.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\BD_CONEX\\GestionUsuarios\\GestionUsuarios\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "GestionUsuarios\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\BD_CONEX\\GestionUsuarios\\GestionUsuarios\\UsuarioDto.cs",
+              "RelativeToolTip": "GestionUsuarios\\UsuarioDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:02:19.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\BD_CONEX\\GestionUsuarios\\GestionUsuarios\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GestionUsuarios\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\BD_CONEX\\GestionUsuarios\\GestionUsuarios\\MainWindow.xaml",
+              "RelativeToolTip": "GestionUsuarios\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-09T15:12:00.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\BD_CONEX\\GestionUsuarios\\GestionUsuarios\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GestionUsuarios\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ATC\\Documents\\Universidad\\PROGRA\\BD_CONEX\\GestionUsuarios\\GestionUsuarios\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GestionUsuarios\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswGAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:11:56.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
